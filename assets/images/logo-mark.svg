@@ -1,0 +1,22 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="200" cy="200" r="198" fill="#FBF7EF"></circle>
+  <g>
+    <line x1="200.0" y1="28.0" x2="200.0" y2="12.0" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="286.0" y1="51.0" x2="294.0" y2="37.2" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="349.0" y1="114.0" x2="362.8" y2="106.0" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="372.0" y1="200.0" x2="388.0" y2="200.0" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="349.0" y1="286.0" x2="362.8" y2="294.0" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="286.0" y1="349.0" x2="294.0" y2="362.8" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="200.0" y1="372.0" x2="200.0" y2="388.0" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="114.0" y1="349.0" x2="106.0" y2="362.8" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="51.0" y1="286.0" x2="37.2" y2="294.0" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="28.0" y1="200.0" x2="12.0" y2="200.0" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="51.0" y1="114.0" x2="37.2" y2="106.0" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+    <line x1="114.0" y1="51.0" x2="106.0" y2="37.2" stroke="#1F3A4D" stroke-width="7" stroke-linecap="round"></line>
+  </g>
+  <circle cx="200" cy="200" r="160" fill="none" stroke="#1F3A4D" stroke-width="9"></circle>
+  <circle cx="200" cy="200" r="145" fill="none" stroke="#C9973A" stroke-width="3"></circle>
+  <path d="M 158 152 A 50 50 0 0 1 242 152" fill="none" stroke="#C9973A" stroke-width="9" stroke-linecap="round"></path>
+  <path d="M 138 168 A 74 74 0 0 1 262 168" fill="none" stroke="#C9973A" stroke-width="7" stroke-linecap="round" opacity="0.55"></path>
+  <text x="200" y="270" font-family="Georgia, &#39;Times New Roman&#39;, serif" font-size="98" font-weight="700" fill="#1F3A4D" text-anchor="middle" letter-spacing="2">TEC</text>
+</svg>

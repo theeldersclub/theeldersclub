@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <line x1="110.0" y1="88.0" x2="110.0" y2="78.0" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="141.0" y1="96.3" x2="146.0" y2="87.6" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="163.7" y1="119.0" x2="172.4" y2="114.0" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="172.0" y1="150.0" x2="182.0" y2="150.0" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="163.7" y1="181.0" x2="172.4" y2="186.0" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="141.0" y1="203.7" x2="146.0" y2="212.4" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="110.0" y1="212.0" x2="110.0" y2="222.0" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="79.0" y1="203.7" x2="74.0" y2="212.4" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="56.3" y1="181.0" x2="47.6" y2="186.0" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="48.0" y1="150.0" x2="38.0" y2="150.0" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="56.3" y1="119.0" x2="47.6" y2="114.0" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+    <line x1="79.0" y1="96.3" x2="74.0" y2="87.6" stroke="#1F3A4D" stroke-width="3" stroke-linecap="round"></line>
+  </g>
+  <circle cx="110" cy="150" r="58" fill="none" stroke="#1F3A4D" stroke-width="5"></circle>
+  <circle cx="110" cy="150" r="52" fill="none" stroke="#C9973A" stroke-width="2"></circle>
+  <path d="M 88 133 A 26 26 0 0 1 132 133" fill="none" stroke="#C9973A" stroke-width="4" stroke-linecap="round"></path>
+  <path d="M 78 142 A 38 38 0 0 1 142 142" fill="none" stroke="#C9973A" stroke-width="3" stroke-linecap="round" opacity="0.55"></path>
+  <text x="110" y="172" font-family="Georgia, &#39;Times New Roman&#39;, serif" font-size="38" font-weight="700" fill="#1F3A4D" text-anchor="middle" letter-spacing="1">TEC</text>
+
+  <text x="215" y="152" font-family="Georgia, &#39;Times New Roman&#39;, serif" font-size="72" font-weight="700" fill="#1F3A4D" letter-spacing="2">THE ELDERS CLUB</text>
+  <rect x="217" y="178" width="360" height="3" fill="#C9973A"></rect>
+  <text x="217" y="212" font-family="Georgia, &#39;Times New Roman&#39;, serif" font-size="26" font-weight="400" fill="#C9973A" letter-spacing="4">LEARN · CONNECT · THRIVE</text>
+</svg>

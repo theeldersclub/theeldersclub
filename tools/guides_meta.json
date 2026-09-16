@@ -1,0 +1,33 @@
+{
+  "_author": {
+    "name": "Caroline D'Cruz",
+    "bio": "journalist and editor with 16+ years of experience, founder of The Elders Club",
+    "linkedin": "https://www.linkedin.com/in/carolinedcruz/"
+  },
+  "gpay-send-money": {
+    "urlSlug": "how-to-send-money-on-google-pay",
+    "thumbnail": null,
+    "intro": "Sending money safely on Google Pay is one of the most useful things your phone can do — no more asking someone else to do it for you, no queueing at the bank. This guide walks through the entire process, from installing the app to completing your first payment, written for anyone trying it for the first time.",
+    "lastUpdated": "2026-09-02"
+  },
+  "gpay-upi-id": {
+    "urlSlug": "upi-id-vs-phone-number-vs-qr-code",
+    "thumbnail": null,
+    "intro": "Google Pay gives you three different ways to send money — by phone number, UPI ID, or QR code — and it isn't always obvious which to use. This guide breaks down the real differences between them, and shows you how to create your own UPI ID so others can pay you too.",
+    "lastUpdated": "2026-09-05"
+  },
+  "gpay-utility-bills": {
+    "urlSlug": "how-to-pay-electricity-gas-and-mobile-bills-on-google-pay",
+    "thumbnail": null,
+    "intro": "Paying an electricity, gas, or mobile bill on Google Pay takes the same few steps every time, once you've done it once. This guide walks through three real bills side by side, so you can see the pattern for yourself and pay any bill with confidence. None of it needs a branch visit or a phone call — every payment happens from the same screen, in the same few taps.",
+    "lastUpdated": "2026-09-09",
+    "closing": "The same pattern carries over to almost any other biller on Google Pay, from broadband to insurance premiums — once you've paid one this way, paying the next one takes under a minute."
+  },
+  "whatsapp-video": {
+    "urlSlug": "how-to-download-and-use-whatsapp-video",
+    "thumbnail": null,
+    "intro": "WhatsApp is how most families stay in touch today — but getting started can feel like a lot at once. This guide walks through creating your account, finding your way around the app, and making your first video or voice call, one screen at a time. None of it needs anyone else's phone or help once you've done it the first time — every step happens right there on your own screen.",
+    "lastUpdated": "2026-09-13",
+    "closing": "Once you've made one video call this way, every call after it follows the same three taps — open the chat, tap the video icon, and wait for them to answer."
+  }
+}
