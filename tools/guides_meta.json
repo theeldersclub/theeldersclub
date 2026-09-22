@@ -30,6 +30,13 @@
     "lastUpdated": "2026-09-16",
     "closing": "Once you've shared a photo, a location, or a contact this way, the next one takes just a few seconds — it's always the same plus icon, no matter which of the three you're sending."
   },
+  "whatsapp-storage": {
+    "urlSlug": "how-to-save-mobile-data-and-phone-storage-on-whatsapp",
+    "thumbnail": null,
+    "intro": "WhatsApp is often the real reason a phone runs low on space or burns through mobile data faster than it should. This guide walks through turning on data-saving for calls, stopping photos and videos from downloading automatically, seeing exactly what's using your phone's storage, and using Disappearing Messages so storage doesn't quietly build back up — shown for both Android and iPhone.",
+    "lastUpdated": "2026-09-22",
+    "closing": "None of this deletes your chats or your messages — it only clears the downloaded copies of photos and videos sitting on your phone, so it's safe to do any time your storage starts filling up again."
+  },
   "whatsapp-video": {
     "urlSlug": "how-to-download-and-use-whatsapp-video",
     "thumbnail": null,
