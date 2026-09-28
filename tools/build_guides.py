@@ -156,6 +156,13 @@ def render_json_ld(guide, content, author_meta, last_updated_iso):
 PAGE_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B2238JM28E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag('js', new Date());
+  gtag('config', 'G-B2238JM28E');
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} | The Elders Club</title>
