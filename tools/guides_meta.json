@@ -58,6 +58,13 @@
     "lastUpdated": "2026-10-01",
     "closing": "No real police force ever arrests you over a video call — a genuine arrest always needs a warrant delivered in person. Remember that one rule, and this scam has nothing left to stand on."
   },
+  "zomato-getting-started": {
+    "urlSlug": "how-to-download-zomato-and-add-delivery-address",
+    "thumbnail": null,
+    "intro": "Zomato is a popular food delivery app, and getting started takes just a few minutes. This guide walks through downloading it from the Play Store, signing in with your mobile number and OTP, and saving your delivery address, one screen at a time. It's shown on an Android phone.",
+    "lastUpdated": "2026-10-05",
+    "closing": "Once your address is saved and showing at the top of the app, you're ready to order. Always check that address before you place an order, and never share your OTP with anyone."
+  },
   "whatsapp-video": {
     "urlSlug": "how-to-download-and-use-whatsapp-video",
     "thumbnail": null,
