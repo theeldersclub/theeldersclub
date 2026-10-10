@@ -65,6 +65,13 @@
     "lastUpdated": "2026-10-05",
     "closing": "Once your address is saved and showing at the top of the app, you're ready to order. Always check that address before you place an order, and never share your OTP with anyone."
   },
+  "zomato-order-food": {
+    "urlSlug": "how-to-order-food-on-zomato",
+    "thumbnail": null,
+    "intro": "Ordering food on Zomato takes just a few taps once you know where to look. This guide walks through opening the app, finding a restaurant, adding food to your cart, and paying to place your order, one screen at a time. If you haven't set up Zomato yet, start with the guide on downloading it and adding your delivery address.",
+    "lastUpdated": "2026-10-10",
+    "closing": "Before you order, always check the delivery address at the top of the screen. And never share your OTP or PIN with anyone who calls you."
+  },
   "whatsapp-video": {
     "urlSlug": "how-to-download-and-use-whatsapp-video",
     "thumbnail": null,
