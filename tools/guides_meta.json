@@ -72,6 +72,13 @@
     "lastUpdated": "2026-10-10",
     "closing": "Before you order, always check the delivery address at the top of the screen. And never share your OTP or PIN with anyone who calls you."
   },
+  "instamart-order-groceries": {
+    "urlSlug": "how-to-order-groceries-on-instamart",
+    "thumbnail": null,
+    "intro": "Instamart brings groceries and snacks to your door, and you can order from your own phone. This guide walks through downloading the app, signing in with your mobile number, finding items, adding them to your cart and paying, one screen at a time.",
+    "lastUpdated": "2026-10-14",
+    "closing": "Before you pay, always check your delivery address. And never share your OTP or PIN with anyone who calls you."
+  },
   "whatsapp-video": {
     "urlSlug": "how-to-download-and-use-whatsapp-video",
     "thumbnail": null,
