@@ -79,6 +79,13 @@
     "lastUpdated": "2026-10-14",
     "closing": "Before you pay, always check your delivery address. And never share your OTP or PIN with anyone who calls you."
   },
+  "blinkit-order-groceries": {
+    "urlSlug": "how-to-order-groceries-on-blinkit",
+    "thumbnail": null,
+    "intro": "Blinkit brings groceries to your door in minutes, and you can order from your own phone. This guide walks through downloading the app, signing up, finding items, adding them to your cart and paying, one screen at a time.",
+    "lastUpdated": "2026-10-18",
+    "closing": "Before you place an order, always check your delivery address. And never share your OTP or PIN with anyone who calls you."
+  },
   "whatsapp-video": {
     "urlSlug": "how-to-download-and-use-whatsapp-video",
     "thumbnail": null,
