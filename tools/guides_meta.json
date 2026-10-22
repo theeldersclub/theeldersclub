@@ -86,6 +86,13 @@
     "lastUpdated": "2026-10-18",
     "closing": "Before you place an order, always check your delivery address. And never share your OTP or PIN with anyone who calls you."
   },
+  "swiggy-getting-started": {
+    "urlSlug": "how-to-download-swiggy-and-add-delivery-address",
+    "thumbnail": null,
+    "intro": "Swiggy brings food to your door, but first it needs a few things from you. This guide walks through installing Swiggy from the Play Store, signing up with your mobile number, understanding the location and notification pop-ups, and saving your delivery address, one screen at a time.",
+    "lastUpdated": "2026-10-22",
+    "closing": "Once your address is saved and showing at the top of the app, you're ready to order. Always check that address before you place an order, and never share your OTP with anyone."
+  },
   "whatsapp-video": {
     "urlSlug": "how-to-download-and-use-whatsapp-video",
     "thumbnail": null,
