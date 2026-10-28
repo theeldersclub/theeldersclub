@@ -93,6 +93,13 @@
     "lastUpdated": "2026-10-22",
     "closing": "Once your address is saved and showing at the top of the app, you're ready to order. Always check that address before you place an order, and never share your OTP with anyone."
   },
+  "swiggy-order-food": {
+    "urlSlug": "how-to-order-food-on-swiggy",
+    "thumbnail": null,
+    "intro": "Ordering food on Swiggy takes just a few taps once you know where to look. This guide walks through finding a restaurant, adding food to your cart, checking your order and paying, one screen at a time. If you haven't set up Swiggy yet, start with the guide on downloading it and adding your delivery address.",
+    "lastUpdated": "2026-10-27",
+    "closing": "Before you pay, always check your delivery address and your total. And never share your OTP or PIN with anyone who calls you."
+  },
   "whatsapp-video": {
     "urlSlug": "how-to-download-and-use-whatsapp-video",
     "thumbnail": null,
