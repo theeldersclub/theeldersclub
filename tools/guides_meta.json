@@ -58,6 +58,13 @@
     "lastUpdated": "2026-10-01",
     "closing": "No real police force ever arrests you over a video call — a genuine arrest always needs a warrant delivered in person. Remember that one rule, and this scam has nothing left to stand on."
   },
+  "scams-pension-benefit-card": {
+    "urlSlug": "the-pension-benefit-card-scam",
+    "thumbnail": null,
+    "intro": "Seeing ads or WhatsApp messages for a \"Pension Benefit Card\"? It is a scam. This guide shows how it works step by step, why it feels so real, four simple rules to protect yourself, and what to do if you have already shared details or sent money.",
+    "lastUpdated": "2026-10-31",
+    "closing": "Before you trust any ad or forward, check with your bank branch or the official website. And never share your OTP, PIN or bank details with someone who contacted you first."
+  },
   "zomato-getting-started": {
     "urlSlug": "how-to-download-zomato-and-add-delivery-address",
     "thumbnail": null,
